@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Sebelum menjalankan react-app ini harap install dependency nya terlebih dahulu dengan menjalankan command ### `npm install` atau `yarn install`
+
+Stack yang digunakan untuk front end :
+- React App (HTML, vanilla CSS, vanilla JavaScript)
+
 ## Available Scripts
 
 In the project directory, you can run:
