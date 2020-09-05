@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Sebelum menjalankan react-app ini harap install dependency nya terlebih dahulu dengan menjalankan command `npm install` atau `yarn install`
 
 Stack yang digunakan untuk front end :
-- React (HTML, vanilla CSS, vanilla JavaScript)
-- Axios
+- **React** (HTML, vanilla CSS, vanilla JavaScript)
+- **Axios*
 
 ## Available Scripts
 
